@@ -1,4 +1,4 @@
-# Day X – Postman & Newman for API Testing
+#  Postman & Newman for API Testing
 
 ## Overview
 **Postman** is a popular API testing tool that allows developers and QA engineers to test, document, and automate REST, SOAP, and GraphQL APIs.  
